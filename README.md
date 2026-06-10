@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Converts natural language questions into SQL queries automatically.
 - Works with any SQL database dialect (SQLite, PostgreSQL, MySQL, etc.).
@@ -16,7 +16,7 @@
 
 ---
 
-## 💻 Installation
+##  Installation
 
 1. Clone the repository:
 
